@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Class Benchmark Classification Pipeline Using Scikit-Learn",
+  "description": "An interactive machine learning internship project benchmarking Logistic Regression and Decision Tree classifiers on the multi-class Iris dataset with performance metrics and visual workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
